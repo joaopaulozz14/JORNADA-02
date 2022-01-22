@@ -8,7 +8,7 @@
 4- Os inimigos foram todos derrotados?
 5- O anel foi destruído na montanha da perdição?
 */ 
-htrt
+
 const prompt = require("prompt-sync")();
 let resp1 = prompt("1- Todos os membros participaram da missão?: ");
 let resp2 = prompt("2- O anel foi utilizado alguma vez por qualquer membro da sociedade?: ");
@@ -20,6 +20,7 @@ console.log(resp1);
 console.log(resp2);
 console.log(resp3);
 console.log(resp4);
+console.log(resp5);
 console.log(resp5);
 
 
